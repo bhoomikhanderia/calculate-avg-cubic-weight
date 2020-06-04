@@ -17,3 +17,4 @@ To run this project, follow below steps in the command line
    `npm install`
 4. Run the application
    `node src/index.js`
+5. Average Cubic Weight will be displayed in the console.
