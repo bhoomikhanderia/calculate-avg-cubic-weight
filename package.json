@@ -1,0 +1,17 @@
+{
+  "name": "kogan.com-coding-challenge",
+  "version": "1.0.0",
+  "description": "This application uses the provided (paginated) API to find the average cubic weight for all the products in the Air Conditioners category.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Bhoomi Khanderia",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
