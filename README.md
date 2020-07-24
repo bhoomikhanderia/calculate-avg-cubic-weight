@@ -10,9 +10,9 @@ from the list of products in the paginated API in the console.
 To run this project, follow below steps in the command line
 
 1. Clone the repository
-   `git clone https://github.com/bhoomikhanderia/kogan-test-app.git`
+   `git clone https://github.com/bhoomikhanderia/calculate-avg-cubic-weight.git`
 2. Navigate to the folder you cloned
-   `cd kogan-test-app`
+   `cd calculate-avg-cubic-weight`
 3. Install dependency modules
    `npm install`
 4. Run the application
